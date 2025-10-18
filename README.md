@@ -1,5 +1,5 @@
 🧠 Employee Attrition Prediction App
-🔗 Live App
+🔗 Live App 
 
 👉 Employee Attrition Predictor
 
@@ -36,27 +36,6 @@ Pandas, NumPy – for data handling
 
 Pickle – for saving and loading trained models
 
-🚀 How to Run Locally
-
-Clone this repository:
-
-git clone https://github.com/<your-username>/employee-attrition-app.git
-cd employee-attrition-app
-
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-
-Run the app:
-
-streamlit run app.py
-
-
-Open in your browser:
-
-http://localhost:8501
 
 🧾 Example Output
 
