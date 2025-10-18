@@ -1,5 +1,6 @@
 🧠 Employee Attrition Prediction App
-🔗 Live App 
+
+🔗 Live App: https://employeeattritionxgboost.streamlit.app/
 
 👉 Employee Attrition Predictor
 
